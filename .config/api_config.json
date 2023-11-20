@@ -1,5 +1,5 @@
 {
-  "api_key": "",
+  "api_key": "5166ee6959bc4733944925bc3c3f2143",
   "engine": "gpt-3.5-turbo",
   "max_tokens": 3600,
   "temperature": 0.7,
@@ -10,8 +10,8 @@
   "system_character": "You are ChatGPT, a large language model trained by OpenAI. Respond conversationally",
   "conversation_timeout": 36000,
   "proxy": "",
-  "use_azure_openai": false,
-  "openai_api_base": "https://YOUR API.openai.azure.com",
+  "use_azure_openai": true,
+  "openai_api_base": "https://cooltang.openai.azure.com",
   "azure_api_version": "2023-06-01-preview",
   "azure_deployment_name": "gpt-35-turbo"
 }
